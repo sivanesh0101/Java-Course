@@ -86,7 +86,6 @@
 ## 10. Java I/O (Basics)
 - Reading & writing files (`FileReader`, `FileWriter`, `BufferedReader`, `BufferedWriter`)  
 - Serialization & Deserialization basics  
-
 ---
 
 ## 11. Java 8+ Features (Basic Level)
